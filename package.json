@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhangweis/btc-node-js/issues"
   },
-  "homepage": "https://github.com/zhangweis/btc-node-js#readme"
+  "homepage": "https://github.com/zhangweis/btc-node-js#readme",
+  "dependencies": {
+    "nedb": "^1.1.2"
+  }
 }
